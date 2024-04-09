@@ -1,0 +1,6 @@
+2024-04-09 21:52:13,744 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:55] Starting LoggerTests using Java 1.8.0_191 on LAPTOP-4B8IBI40 with PID 23340 (started by zyysuo in E:\JavaStudy\community)
+2024-04-09 21:52:13,746 INFO [main] c.n.c.LoggerTests [SpringApplication.java:645] No active profile set, falling back to 1 default profile: "default"
+2024-04-09 21:52:13,758 INFO [background-preinit] o.h.v.i.u.Version [Version.java:21] HV000001: Hibernate Validator 6.2.5.Final
+2024-04-09 21:52:15,437 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2024-04-09 21:52:15,722 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:61] Started LoggerTests in 2.36 seconds (JVM running for 3.075)
+2024-04-09 21:52:15,929 INFO [main] c.n.c.LoggerTests [LoggerTests.java:22] info log
